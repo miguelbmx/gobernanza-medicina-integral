@@ -1,6 +1,8 @@
 # PLANTILLA «CONTRAPUNTO»
 ## Informe crítico de señales emergentes, variables infranegligidas y cegueras del paradigma
 
+> **Nota:** el contenido de esta plantilla quedó integrado en `MEDICINA_INTEGRAL.md` (v2.0, «revisión clínica y contrapunto crítico»), Parte VII. Se conserva como referencia histórica.
+
 **Tipo de entregable:** informe crítico de vanguardia. **Versión:** v1.0 · 20 de octubre de 2026.
 **Función:** pieza complementaria a la revisión clínica integral del mismo tema. La revisión estándar describe *lo que la medicina ya sabe y recomienda*; «Contrapunto» describe *lo que la medicina aún no está mirando —y por qué no lo mira—*. No es una recopilación de novedades: identifica cegueras sistemáticas del paradigma académico (metodológicas, editoriales, regulatorias y asistencialistas), variables con realismo causal pero sin reconocimiento institucional, hechos incómodos que contradicen la práctica habitual y señales prospectivas de tres a cinco años. La autocrítica del documento es tan exigente como su crítica: somete su propia tesis a la misma prueba de estrés que aplica al establishment.
 

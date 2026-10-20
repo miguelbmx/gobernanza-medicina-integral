@@ -18,7 +18,7 @@
    - tesis y adversariales → *contraposición de la evidencia* (sección de controversias);
    - gobernanza autoactualizable → *política de actualización* ante evidencia nueva;
    - verificación interna de cobertura → control silencioso, jamás expuesto en el entregable.
-4. **Estructura del entregable:** según el tipo: la revisión clínica integral sigue el esquema de `MEDICINA_INTEGRAL.md` (versión vigente); los informes críticos de vanguardia (señales emergentes, cegueras del paradigma, variables infranegligidas) siguen `PLANTILLA_CONTRAPUNTO.md` (versión vigente). Ambos en su formato de documento clínico de revista de excelencia.
+4. **Estructura del entregable:** el esquema único es el de `MEDICINA_INTEGRAL.md` (v2.0, «revisión clínica y contrapunto crítico»): fusiona la revisión clínica integral y el módulo crítico de vanguardia en un solo documento, con búsqueda documental extendida, trazabilidad de cobertura (porcentajes y brechas intencionales/no intencionales) y batería de preguntas incómodas. `PLANTILLA_CONTRAPUNTO.md` se conserva como referencia histórica del módulo crítico. Ambas piezas, en su formato de documento clínico de revista de excelencia.
 
 ## 2. Principio de integración (perspectiva biopsicosocial y holística)
 
