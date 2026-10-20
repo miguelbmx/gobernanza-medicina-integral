@@ -18,7 +18,7 @@
    - tesis y adversariales → *contraposición de la evidencia* (sección de controversias);
    - gobernanza autoactualizable → *política de actualización* ante evidencia nueva;
    - verificación interna de cobertura → control silencioso, jamás expuesto en el entregable.
-4. **Estructura del entregable:** el esquema obligatorio es el definido en `MEDICINA_INTEGRAL.md` (versión vigente), en su formato de documento clínico (metadatos, resumen, dominios, eje temporal, evidencia, perspectiva del paciente, ética y comunicación, sistema sanitario, integración, lagunas, registro de fuentes).
+4. **Estructura del entregable:** según el tipo: la revisión clínica integral sigue el esquema de `MEDICINA_INTEGRAL.md` (versión vigente); los informes críticos de vanguardia (señales emergentes, cegueras del paradigma, variables infranegligidas) siguen `PLANTILLA_CONTRAPUNTO.md` (versión vigente). Ambos en su formato de documento clínico de revista de excelencia.
 
 ## 2. Principio de integración (perspectiva biopsicosocial y holística)
 
@@ -68,4 +68,4 @@ Cada evidencia nueva, corrección o matiz que aparezca en la conversación se **
 
 ## 11. Repositorio de gobernanza
 
-La documentación de gobernanza vigente (este archivo, `MEDICINA_INTEGRAL.md` y `REGISTRO_VERSIONADO.md`) se mantiene sincronizada con el repositorio público de GitHub `miguelbmx/gobernanza-medicina-integral`. Los entregables jamás citan ese repositorio ni su existencia.
+La documentación de gobernanza vigente (este archivo, `MEDICINA_INTEGRAL.md`, `PLANTILLA_CONTRAPUNTO.md` y `REGISTRO_VERSIONADO.md`) se mantiene sincronizada con el repositorio público de GitHub `miguelbmx/gobernanza-medicina-integral`. Los entregables jamás citan ese repositorio ni su existencia.

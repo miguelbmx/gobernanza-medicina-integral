@@ -8,7 +8,8 @@ Repositorio público de la documentación de gobernanza del proyecto **Medicina 
 |---|---|
 | `AGENTS.md` | Directivas permanentes de operación (gobernanza v2.0): principio de excelencia editorial, confidencialidad de la configuración, principios de contenido, versionado y control de cobertura. |
 | `MEDICINA_INTEGRAL.md` | Marco sistemático (v1.1): nota metodológica, doce dominios temáticos, eje temporal del análisis, criterios de aplicabilidad por tipo de tema, criterios de calidad de la evidencia (jerarquía N1–N4, GRADE, herramientas de riesgo de sesgo, vigencia) y estructura estándar del documento clínico. |
-| `REGISTRO_VERSIONADO.md` | Registro interno de versiones de la gobernanza y de los análisis producidos. |
+| `PLANTILLA_CONTRAPUNTO.md` | Plantilla de informe crítico de vanguardia (v1.0): cegueras del paradigma, variables infranegligidas, hechos incómodos, señales emergentes, escala de sustento ampliada (N1–N4, señal, hipótesis, laguna) y protocolo de refutación interna. |
+| `REGISTRO_VERSIONADO.md` | Registro interno de versiones de la gobernanza, plantillas y análisis producidos. |
 
 ## Principios rectores
 
@@ -19,7 +20,7 @@ Repositorio público de la documentación de gobernanza del proyecto **Medicina 
 
 ## Versión vigente
 
-Gobernanza **v2.0** (20 de octubre de 2026) · Medicina Integral **v1.1** (20 de octubre de 2026).
+Gobernanza **v2.0** (20 de octubre de 2026) · Medicina Integral **v1.1** (20 de octubre de 2026) · Plantilla Contrapunto **v1.0** (20 de octubre de 2026).
 
 ## Licencia
 
