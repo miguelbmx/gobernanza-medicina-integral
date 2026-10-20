@@ -1,7 +1,7 @@
 # MEDICINA INTEGRAL
 ## Esquema maestro integrado: revisión clínica y contrapunto crítico
 
-**Versión:** 2.0 · **Fecha de publicación:** 20 de octubre de 2026.
+**Versión:** 2.1 · **Fecha de publicación:** 20 de octubre de 2026.
 
 ---
 
@@ -271,6 +271,34 @@ Fecha de corte de la búsqueda (día, mes y año) en todo documento; revalidaci�
 ## 4.6 Lagunas de conocimiento
 
 Todo vacío se nombra y se orienta («No se identificó evidencia sobre…», «Controversia abierta:…») con el estudio que faltaría; su cuantificación y clasificación se registran en la Parte VI.
+
+## 4.7 Regla de vinculación obligatoria: mecanismo fisiológico → marcador → mejora clínica
+
+**Principio:** toda lógica metodológica que intervenga en un mecanismo fisiológico debe acompasarse, en el mismo documento y en la misma frase cuando sea posible, con datos clínicos de mejora de la salud. La inferencia desde cambios de marcadores y variables hacia mejoras clínicas es legítima y necesaria cuando los estudios directos aún no dictaminan; solo es válida si la cadena queda explícita, cada eslabón declara su nivel y la conclusión nunca se presenta con más firmeza que su eslabón más débil.
+
+**Cadena obligatoria de toda afirmación por mecanismo:**
+
+`mecanismo fisiológico (nivel) → marcador intermedio medible (nivel + instrumento + ventana de tiempo) → desenlace clínico esperado (nivel, o laguna declarada)`
+
+**Tres categorías de afirmación, siempre distinguidas en la redacción:**
+
+| Categoría | Etiqueta | Qué es | Reglas de uso |
+|---|---|---|---|
+| **(a) Evidencia publicada directa** | `[E · N1–N4 / S / H / ⚠️]` | Afirmeación respaldada por estudios que midieron el desenlace en cuestión | Se cita con autor, año y nivel; es la única categoría que puede escribirse como «demostrado» o «recomendado» |
+| **(b) Inferencia razonada de marcadores** | `[I · alta / media / baja]` | Deducción por la cadena mecanismo→marcador→desenlace: los estudios no dictaminan el desenlace, pero los eslabones intermedios sí están medidos y el sentido de la predicción es consistente | Exige: eslabones etiquetados individualmente; probabilidad declarada (alta/media/baja); **marcador de vigilancia** que haría la inferencia confirmable o refutable en el tiempo que se declare; ventana de reevaluación |
+| **(c) Propuesta clínica de acompañamiento sin comprobación directa** | `[A · verde / gris]` | Rutina o esquema complementario derivado de (a) y/o (b), empleable en procesos de salud y enfermedad concretos pese a carecer de ensayo que lo pruebe de forma directa | Exige: reversibilidad; declaración explícita de que **no sustituye** tratamiento eficaz; consentimiento de incertidumbre con el paciente; marcador de control antes y después; criterio de retiro escrito; fecha de revisión |
+
+**Reglas de aplicación:**
+
+- **R1 — Ascenso prohibido:** nunca se redacta una `[I]` o una `[A]` con verbos de evidencia directa («demuestra», «prueba», «cura», «previene»). Se usan verbos de expectativa razonada («se infiere», «se espera», «se propone como acompañamiento»).
+- **R2 — Eslabón visible:** toda inferencia escribe su cadena completa en el documento; omitir un eslabón convierte la inferencia en afirmación gratuita.
+- **R3 — Refutabilidad:** toda `[I]` nombra el dato que la haría caer («si el marcador M no mejora en X semanas, la inferencia se retira»).
+- **R4 — Vigilancia en toda `[A]`:** ningún acompañamiento se prescribe sin su marcador de seguimiento ni su condición de suspensión.
+- **R5 — Transparencia en el resumen:** el resumen ejecutivo declara qué proporción de las mejoras afirmadas es evidencia directa, qué proporción es inferencia razonada y qué proporción es acompañamiento propuesto.
+
+**Formato modelo de la tríada en un mismo pasaje:**
+
+*«La intervención X modifica el marcador M (nivel [E·N3]); por la cadena M→D se infiere una mejora del desenlace D ([I·media], vigilando M cada 4 semanas, retiro si no mejora a las 8); mientras tanto se propone la rutina R como acompañamiento complementario ([A·verde]), sin sustituir el tratamiento establecido y con explicación de su incertidumbre al paciente.»*
 
 ---
 
